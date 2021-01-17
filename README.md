@@ -21,3 +21,6 @@ With only a set amount of time to program, I had originally, started with HTML5,
 # How it works
 In the beginning, it will ask you for your zip code. This is so it can search for gyms near your area. Using if and while statements, the user will allow the program to classify them as a specific type of person, (doesn't go to the gym, bodybuilder, etc). From there, the program can give them suggestions on workouts, training times, diets, and a BMI calculator. 
 
+# Team members
+
+Just me, Jason Bak, I don't peer program
