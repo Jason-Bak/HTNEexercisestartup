@@ -7,11 +7,13 @@ You will need to install Selenium for this to work you can do that by:
 ``` 
 pip install selenium
 ```
+https://www.selenium.dev/documentation/en/selenium_installation/installing_selenium_libraries/
 # uszipcode
 You will also need to install this with:
 ```
 pip install uszipcode
 ```
+https://pypi.org/project/uszipcode/
 # purpose
 This is a python terminal program that, with the help of selenium, will give someone all the tools they need to get/stay in shape
 
