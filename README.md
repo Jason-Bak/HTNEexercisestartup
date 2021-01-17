@@ -1,3 +1,6 @@
+Demo can be viewed at: https://colab.research.google.com/drive/1JhFsJkYijhhZnasL8voojZLDwdmcy7a2?usp=sharing
+Youtube Video: https://www.youtube.com/watch?v=3H0mRPDgWl4&ab_channel=TheAsianApollo
+
 # HTNEexercisestartup
 This is my HTNE submission
 # Summary
